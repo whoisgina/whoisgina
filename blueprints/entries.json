@@ -1,0 +1,36 @@
+{
+  "title": "Entries",
+  "pages": {
+    "view": "entry"
+  },
+  "layout": {
+    "content": {
+      "width": "1/1",
+      "fields": ["title", "sort", "pages"]
+    }
+  },
+  "fields": {
+    "title": {
+      "label": "Title",
+      "type": "text",
+      "width": "1/2"
+    },
+    "sort": {
+      "label": "Sort",
+      "type": "dropdown",
+      "default": "chronological",
+      "width": "1/2",
+      "options": {
+        "alphabetical": "Alphabetical",
+        "reverse-alphabetical": "Reverse Alphabetical",
+        "chronological": "Chronological",
+        "reverse-chronological": "Reverse Chronological"
+      }
+    },
+    "pages": {
+      "label": "Pages",
+      "type": "pages",
+      "pathnames": true
+    }
+  }
+}

@@ -1,0 +1,5 @@
+title: About
+----
+view: about
+----
+visible: false

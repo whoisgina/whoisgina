@@ -1,12 +1,13 @@
 var html = require('choo/html')
-var renderEntry = require('../components/entry')
+var content = require('../components/content')
+
 
 module.exports = view
 
 function view (state, emit) {
   return html`
-    <div>
-      ${state.page().v('title')}
+    <div class="content">
+    ${content(state.page().v('text'))}
     </div>
   `
 }

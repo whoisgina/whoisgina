@@ -1,5 +1,13 @@
-title: Vacant
+title: Gina Giampaolo
 ----
-view: default
+view: home
 ----
-text: Enokitake, also Enokidake or Enoki, are cultivars of Flammulina velutipes, also known by the name golden needle mushroom or lily mushroom.
+text: Hello! I’m Gina Giampaolo and I’m a designer and developer working and living in Portland, Oregon&thinsp;—&thinsp;currently at [Rumors](http://rumo.rs/). Recent work:
+
+- Design and development for [BOMB Magazine](https://www.bombmagazine.org/)
+- Design and development for [Open Signal](https://www.opensignalpdx.org/)
+- Design and development for [New Cities, Future Ruins](http://newcitiesfutureruins.com/)
+- Development for [Seven Stories Press](https://www.sevenstories.com/)
+- Design and development for [Emily Books](https://www.emilybooks.com/)
+
+Want to grab coffee? Ride bikes? Meet some neighborhood cats? Get in touch! You can also find me on Twitter, Instagram and Github.
