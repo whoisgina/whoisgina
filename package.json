@@ -29,7 +29,7 @@
     "css-extract": "^1.3.0",
     "es2040": "^1.2.6",
     "sheetify": "^7.3.2",
-    "sheetify-cssnext": "^1.0.7",
+    "sheetify-cssnext": "^2.0.0",
     "tinyify": "^2.4.0",
     "watchify": "^3.10.0",
     "yo-yoify": "^3.7.3"
