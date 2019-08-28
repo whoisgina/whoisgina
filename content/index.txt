@@ -2,8 +2,9 @@ title: Gina Giampaolo
 ----
 view: home
 ----
-text: Hello! I’m Gina Giampaolo and I’m a designer and developer working and living in Portland, Oregon&thinsp;—&thinsp;currently at [Rumors](http://rumo.rs/). Recent work:
+text: Hello! I’m Gina Giampaolo and I’m a designer and developer working and living in Portland, Oregon. Recent work:
 
+- Development for [SCI-Arc](https://www.sciarc.edu/)
 - Design and development for [BOMB Magazine](https://www.bombmagazine.org/)
 - Design and development for [Open Signal](https://www.opensignalpdx.org/)
 - Design and development for [New Cities, Future Ruins](http://newcitiesfutureruins.com/)
