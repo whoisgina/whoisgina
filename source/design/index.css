@@ -8,7 +8,9 @@ html {
 }
 
 body {
-  font-family: 'Lunch', sans-serif;
+  font-family: 'Work Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
   background: var(--background);
   color: var(--foreground);
   line-height: 1.5;
@@ -168,40 +170,4 @@ nav {
 @keyframes spin {
   0% { transform: rotate(0deg) }
   100% { transform: rotate(360deg) }
-}
-
-/**
- * typography
- */
-
-@font-face {
-  font-family: 'Lunch';
-  src: url('/assets/lunchtype22-light-webfont.woff2') format('woff2'),
-       url('/assets/lunchtype22-light-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Lunch';
-  src: url('/assets/lunchtype23-light-italic-webfont.woff2') format('woff2'),
-    url('/assets/lunchtype23-light-italic-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: italic;
-}
-
-@font-face {
-  font-family: 'Lunch';
-  src: url('/assets/lunchtype22-medium-webfont.woff2') format('woff2'),
-    url('/assets/lunchtype22-medium-webfont.woff') format('woff');
-  font-weight: bold;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Lunch';
-  src: url('/assets/lunchtype23-medium-italic-webfont.woff2') format('woff2'),
-    url('/assets/lunchtype23-medium-italic-webfont.woff') format('woff');
-  font-weight: bold;
-  font-style: italic;
 }
