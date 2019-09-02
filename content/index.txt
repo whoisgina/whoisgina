@@ -2,9 +2,10 @@ title: Gina Giampaolo
 ----
 view: home
 ----
-text: Hello! I’m Gina Giampaolo and I’m a designer and developer working and living in Portland, Oregon. Recent work:
+text: Hello! I’m Gina Giampaolo and I’m a designer and developer working and living in Portland, Oregon; previously at [Rumors](https://rumo.rs). I run [Dat Night](https://www.datnight.org). Recent work:
 
 - Development for [SCI-Arc](https://www.sciarc.edu/)
+- Development for [Sister City](https://sistercitynyc.com/)
 - Design and development for [BOMB Magazine](https://www.bombmagazine.org/)
 - Design and development for [Open Signal](https://www.opensignalpdx.org/)
 - Design and development for [New Cities, Future Ruins](http://newcitiesfutureruins.com/)
