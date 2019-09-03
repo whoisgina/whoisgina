@@ -4,7 +4,7 @@ view: home
 ----
 text: Hello! I’m Gina Giampaolo and I’m a designer and developer working and living in Portland, Oregon; previously at [Rumors](https://rumo.rs). I run [Dat Night](https://www.datnight.org). Some work:
 
-- 🌱 Design and development for [Plants](https://plants.rumo.rs).
+- 🌱 Design and development for [Plant Pal](https://plants.rumo.rs).
 - 🔵 Development for [Sister City](https://sistercitynyc.com/).
 - 🌴 Development for [SCI-Arc](https://www.sciarc.edu/).
 - 💣 Design and development for [BOMB Magazine](https://www.bombmagazine.org/).
@@ -13,6 +13,6 @@ text: Hello! I’m Gina Giampaolo and I’m a designer and developer working and
 - 📚 Development for [Seven Stories Press](https://www.sevenstories.com/).
 - 👯‍♀️ Design and development for [Emily Books](https://www.emilybooks.com/).
 
-I recently spoke at [MozFest House](https://blog.datproject.org/2018/10/18/whyspace-mozfesthouse/) in London, [Data Terra Nemo](https://dtn.is/) in Berlin, and [Plantconf](https://plantconf.com/) and [Donut.js](https://donutjs.club/) in Portland.
+I've recently spoken at [MozFest House](https://blog.datproject.org/2018/10/18/whyspace-mozfesthouse/) in London, [Data Terra Nemo](https://dtn.is/) in Berlin, and [Plantconf](https://plantconf.com/) and [Donut.js](https://donutjs.club/) in Portland.
 
 Want to grab coffee? See some [trees](https://www.instagram.com/pdx_treespotting/)? Meet some neighborhood cats? [Get in touch](mailto:whoisgina@me.com)! You can also find me on [Friend Camp](https://friend.camp/@whoisgina), [Instagram](https://www.instagram.com/_whoisgina/) and [Github](https://www.github.com/whoisgina).
