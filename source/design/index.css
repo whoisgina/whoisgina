@@ -70,12 +70,10 @@ a {
 
   body {
     padding: 5vw;
-    background-image: url('bg.gif');
+    background-image: url('https://raw.githubusercontent.com/whoisgina/whoisgina/master/assets/bg.gif');
     background-repeat: repeat;
   }
 }
-
-
 
 /**
  * copy
