@@ -2,8 +2,9 @@ title: Gina Giampaolo
 ----
 view: home
 ----
-text: Hello! I’m Gina Giampaolo and I’m a designer and developer working and living in Portland, Oregon; previously at [Rumors](https://rumo.rs). I run [Dat Night](https://www.datnight.org). Some work:
+text: Hello! I’m Gina Giampaolo and I’m a designer and developer working and living in Portland, Oregon; previously at [Rumors](https://rumo.rs). Some work:
 
+- 👖 Development for [Levi's](https://www.instrument.com/work/levis/).
 - 🌱 Design and development for [Plant Pal](https://plants.rumo.rs).
 - 🔵 Development for [Sister City](https://sistercitynyc.com/).
 - 🌴 Development for [SCI-Arc](https://www.sciarc.edu/).
@@ -13,6 +14,6 @@ text: Hello! I’m Gina Giampaolo and I’m a designer and developer working and
 - 📚 Development for [Seven Stories Press](https://www.sevenstories.com/).
 - 👯‍♀️ Design and development for [Emily Books](https://www.emilybooks.com/).
 
-I've recently spoken at [MozFest House](https://blog.datproject.org/2018/10/18/whyspace-mozfesthouse/) in London, [Data Terra Nemo](https://dtn.is/) in Berlin, and [Plantconf](https://plantconf.com/) and [Donut.js](https://donutjs.club/) in Portland.
+I've recently spoken at [MozFest House](https://blog.datproject.org/2018/10/18/whyspace-mozfesthouse/) in London, [Data Terra Nemo](https://www.youtube.com/watch?v=B3ltY3Ig4yI) in Berlin, and [Plantconf](https://plantconf.com/), [Donut.js](https://donutjs.club/) and [Instrument](https://www.youtube.com/watch?v=bufT8Fz9ORs) in Portland.
 
 Want to grab coffee? See some [trees](https://www.instagram.com/pdx_treespotting/)? Meet some neighborhood cats? [Get in touch](mailto:whoisgina@me.com)! You can also find me on [Friend Camp](https://friend.camp/@whoisgina), [Instagram](https://www.instagram.com/_whoisgina/) and [Github](https://www.github.com/whoisgina).
