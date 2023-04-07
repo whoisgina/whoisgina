@@ -6,10 +6,8 @@ text: Hello! I’m Gina Giampaolo and I’m a designer and developer working and
 
 - 👖 Development for [Levi's](https://www.instrument.com/work/levis/).
 - 🌱 Design and development for [Plant Pal](https://plants.rumo.rs).
-- 🔵 Development for [Sister City](https://sistercitynyc.com/).
 - 🌴 Development for [SCI-Arc](https://www.sciarc.edu/).
 - 💣 Design and development for [BOMB Magazine](https://www.bombmagazine.org/).
-- 🏜 Design and development for [New Cities, Future Ruins](http://newcitiesfutureruins.com/).
 - 📺 Design and development for [Open Signal](https://www.opensignalpdx.org/).
 - 📚 Development for [Seven Stories Press](https://www.sevenstories.com/).
 - 👯‍♀️ Design and development for [Emily Books](https://www.emilybooks.com/).
