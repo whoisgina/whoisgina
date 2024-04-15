@@ -2,7 +2,7 @@ title: Gina Giampaolo
 ----
 view: home
 ----
-text: Hello! I’m Gina Giampaolo and I’m a designer and developer working and living in Portland, Oregon; previously at [Rumors](https://rumo.rs). Some work:
+text: Hello! I’m Gina Giampaolo and I’m an independent designer and developer working and living in Portland, Oregon; previously at [Rumors](https://rumo.rs). Some work:
 
 - 🔬 Development and design for [Code for Science & Society](https://www.codeforsociety.org).
 - 👖 Development for [Levi's](https://www.instrument.com/work/levis/).
