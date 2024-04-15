@@ -6,12 +6,13 @@ text: Hello! I’m Gina Giampaolo and I’m a designer and developer working and
 
 - 🔬 Development and design for [Code for Science & Society](https://www.codeforsociety.org).
 - 👖 Development for [Levi's](https://www.instrument.com/work/levis/).
-- 🌱 Design and development for [Plant Pal](https://plants.rumo.rs).
 - 🌴 Development for [SCI-Arc](https://www.sciarc.edu/).
 - 💣 Design and development for [BOMB Magazine](https://www.bombmagazine.org/).
 - 📺 Design and development for [Open Signal](https://www.opensignalpdx.org/).
 - 📚 Development for [Seven Stories Press](https://www.sevenstories.com/).
 - 👯‍♀️ Design and development for [Emily Books](https://www.emilybooks.com/).
+
+[Read more](https://superbloom.design/learning/blog/untangling-digital-spaghetti-gina-giampaolo-on-cs-s-website-refresh/) about my design and development process on Code for Science & Society's website.
 
 In a past life, I spoke at [MozFest House](https://www.mozillafestival.org/en/house/) in London, [Data Terra Nemo](https://www.youtube.com/watch?v=B3ltY3Ig4yI) in Berlin, and [Plantconf](https://plantconf.com/), [Donut.js](https://donutjs.club/) and [Instrument](https://www.youtube.com/watch?v=bufT8Fz9ORs) in Portland.
 
